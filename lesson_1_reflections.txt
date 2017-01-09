@@ -19,13 +19,13 @@
 
 5. How can you use the commands git log and git diff to view the history of files?
 
-    Fill in your answer here
+    Using git log, you can see all the commits of a repository; using git diff, you can see the differences between two commits.
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+    Using version control you can check the differences between commits and find exactly where you inserted the mistake.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    To have a better control of the versions of my college projects.
