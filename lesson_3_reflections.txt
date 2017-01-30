@@ -6,3 +6,6 @@
 
 	So I can choose what and when to commit.
 
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	A fork is used to make changes in a repository and keep the original one the way it is. Clones are copies of remote repositories on your computer. And branches are changes that will possibly be merged to the original files.
